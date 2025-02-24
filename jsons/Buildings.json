@@ -7,6 +7,7 @@
 		"isWonder": true,
 		"culture": 30
 		"uniques": ["[+75]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [6] tiles away"]
+		"requiredTech": "Industrialization"
 		"quote": "DEAR GOD WHAT HAVE YOU DONE?!"
 	}
 ]
