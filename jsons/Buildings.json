@@ -3,6 +3,7 @@
 		"name": "Furaffinity",
 		"replaces": "Big Ben",
 		"uniqueTo": "Furries",
+		"cost": 1000
 		"isWonder": true,
 		"culture": 30
 		"uniques": ["[+75]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [6] tiles away"]
