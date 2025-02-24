@@ -8,3 +8,5 @@ Currently only one civ and new religion for now. Will add more when I get more i
 Current ideas for future civs: Weebs, Undertale fandom, Fnaf fandom
 
 Might add non fandom joke civs as well
+
+Suggestions welcome
