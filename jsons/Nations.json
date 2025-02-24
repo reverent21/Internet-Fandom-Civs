@@ -9,7 +9,7 @@
 		"startIntroPart1": "Why?",
 		"startIntroPart2": "You could have chosen a normal nation. Why must you choose the path of perpetual torment?",
 		
-		"declaringWar": "Pwepawe fow assimiwation UwU",
+		"declaringWar": "Pwepawe fow assimiwation ÒwÓ",
 		"attacked": "As a wise man once said, if a fuwwy can affowd a 1000% dowwaw fuwsuit, they can affowd a 10$ pipe bomb in youw maiwbox.",
 		"defeated": "Congratulations! You did the right thing and destroyed the worst nation in this mod!",
 		"introduction": "Hewwo, I am Fwoofwes, lowd of cwinge uwu.",
@@ -19,13 +19,13 @@
 		"neutralNo": ["ew no"],
 		"neutralYes": ["I accept, UwU."],
 
-		"hateHello": "",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "*gwowls*",
+		"hateLetsHearIt": ["Bettew be a good one!"],
+		"hateNo": ["Fuwuck off"],
+		"hateYes": ["Fiiine"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You get the sinking feeling you made the wrong choice.",
+		"tradeRequest": "Accept this pweeeaaase UwU",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
