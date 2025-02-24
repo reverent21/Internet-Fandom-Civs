@@ -5,7 +5,8 @@
 		"uniqueTo": "Furries",
 		"replaces": "Missionary",
 		"uniques": [
-			"Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>",
+			"Can Spread Religion <for [4] movement> <[1] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
 			"May enter foreign tiles without open borders",
 			"Ignores terrain cost",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
