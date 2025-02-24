@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Furries",
-		"leaderName": "Floofles the Terrible",
+		"leaderName": "Floofles the Cringelord",
 		"adjective": ["furry"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
@@ -19,7 +19,7 @@
 		"neutralNo": ["ew no"],
 		"neutralYes": ["I accept, UwU."],
 
-		"hateHello": "*gwowls*",
+		"hateHello": "Grrrrr",
 		"hateLetsHearIt": ["Bettew be a good one!"],
 		"hateNo": ["Fuwuck off"],
 		"hateYes": ["Fiiine"],
@@ -29,10 +29,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "Masters of Cringe",
+		"uniques": ["Gain a free [Shrine] [in all cities]"]
+		"uniqueText": "Furries are the masters of cringe. Every city starts with a shrine, making this garbage civ overpowered for religion. If that isn't already enough, they get a stupidly powerful wonder in the Industrial era that almost ensures religion spreads like wildfire. Horrifically unbalanced, but what did you expect from a joke mod?"
+		"cities": ["Furryville","Bulgeburg","Cringetown","Boykisser Village","Foxville","Wooferburg","Mcflufferton","Meowtown","Wolfburg","Chonkerton","Cat Zone","Useless City","Why?","Chungus"]
 	}
 ]
