@@ -26,7 +26,7 @@
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
 		"strength": 30,
 		"cost": 150
@@ -41,7 +41,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
 		"strength": 36,
 		"cost": 225
@@ -56,7 +56,7 @@
 		"obsoleteTech": "Plastics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
 		"strength": 52,
 		"cost": 320
@@ -71,7 +71,7 @@
 		"obsoleteTech": "Mobile Tactics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
 		"strength": 72,
 		"cost": 375
@@ -84,10 +84,40 @@
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"movement": 3,
 		"strength": 92,
 		"cost": 375,
+	},
+	{
+		"name": "Mall Ninja Apprentice",
+		"unitType": "Archery",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Gatling Gun",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Mall Ninja Adept",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "throw"
+	},
+	{
+		"name": "Mall Ninja Master",
+		"unitType": "Archery",
+		"uniqueTo": "Weeb Army",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"upgradesTo": "Rainbow Katana Master",
+		"attackSound": "throw"
 	}
 ]
 	
