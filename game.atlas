@@ -4,20 +4,6 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Furries
   rotate: false
   xy: 112, 4
@@ -32,9 +18,9 @@ ReligionIcons/PathOwOgen
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/PathOwOgen carrier
   rotate: false
-  xy: 328, 4
+  xy: 150,0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
