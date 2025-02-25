@@ -18,7 +18,7 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Furries
+NationIcons/Furry Fandom
   rotate: false
   xy: 112, 4
   size: 100, 100
@@ -39,7 +39,7 @@ UnitIcons/PathOwOgen carrier
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+NationIcons/Weeb Army
   rotate: false
   xy: 436, 4
   size: 100, 100
