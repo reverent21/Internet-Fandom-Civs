@@ -13,6 +13,7 @@
 	{
 		"name": "Body Pillow Factory",
 		"replaces": "Factory",
+		"uniqueTo": "Weeb Army",
 		"maintenance": 2,
 		"culture": 5,
 		"happiness": 5,
