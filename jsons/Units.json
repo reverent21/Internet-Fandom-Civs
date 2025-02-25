@@ -2,7 +2,7 @@
 	{
 		"name": "PathOwOgen carrier",
 		"unitType": "Civilian",
-		"uniqueTo": "Furries",
+		"uniqueTo": "Furry Fandom",
 		"replaces": "Missionary",
 		"uniques": [
 			"Can Spread Religion <for [4] movement> <[1] times> <after which this unit is consumed>",
@@ -15,4 +15,81 @@
 		"religiousStrength": 1000
 	}
 ]
+[
+	{
+		"name": "Katana Apprentice",
+		"unitType": "Sword",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Musketman",
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Katana Adept",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"movement": 2,
+		"strength": 30,
+		"cost": 150
+	},
+	{
+		"name": "Katana Adept",
+		"unitType": "Sword",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Rifleman",
+		"requiredTech": "Rifling",
+		"upgradesTo": "Katana Expert",
+		"obsoleteTech": "Replaceable Parts",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"movement": 2,
+		"strength": 36,
+		"cost": 225
+	},
+	{
+		"name": "Katana Expert",
+		"unitType": "Sword",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Great War Infantry",
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Katana Master",
+		"obsoleteTech": "Plastics",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"movement": 2,
+		"strength": 52,
+		"cost": 320
+	},
+	{
+		"name": "Katana Master",
+		"unitType": "Sword",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Infantry",
+		"requiredTech": "Plastics",
+		"upgradesTo": "Rainbow Katana Master",
+		"obsoleteTech": "Mobile Tactics",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"movement": 2,
+		"strength": 72,
+		"cost": 375
+	},
+	{
+		"name": "Rainbow Katana Master",
+		"unitType": "Sword",
+		"uniqueTo": "Weeb Army",
+		"replaces": "Mechanized Infantry",
+		"requiredTech": "Mobile Tactics",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+		"uniques": ["[50]% Strength <vs [Gunpowder] units>"]
+		"movement": 3,
+		"strength": 92,
+		"cost": 375,
+	}
+]
+	
+
 		
