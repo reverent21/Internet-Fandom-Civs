@@ -13,9 +13,7 @@
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
 		"movement": 4,
 		"religiousStrength": 1000
-	}
-]
-[
+	},
 	{
 		"name": "Katana Apprentice",
 		"unitType": "Sword",
