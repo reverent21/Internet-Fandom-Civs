@@ -2,12 +2,25 @@
 	{
 		"name": "Furaffinity",
 		"replaces": "Big Ben",
-		"uniqueTo": "Furries",
-		"cost": 1000
+		"uniqueTo": "Furry Fandom",
+		"cost": 1500
 		"isWonder": true,
 		"culture": 30
 		"uniques": ["[+75]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [6] tiles away"]
 		"requiredTech": "Industrialization"
 		"quote": "DEAR GOD WHAT HAVE YOU DONE?!"
+	},
+	{
+		"name": "Body Pillow Factory",
+		"replaces": "Factory",
+		"maintenance": 2,
+		"culture": 5,
+		"happiness": 5,
+		"production": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
 	}
 ]
