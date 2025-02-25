@@ -99,7 +99,7 @@
 		"cost": 225,
 		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
 		"requiredTech": "Industrialization",
-		"upgradesTo": "Mall Ninja Adept",
+		"upgradesTo": "Mall Ninja Master",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "throw"
 	},
