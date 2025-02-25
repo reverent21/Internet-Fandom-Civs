@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Furries",
+		"name": "Furry Fandom",
 		"leaderName": "Floofles the Cringelord",
 		"adjective": ["furry"],
-		"startBias": ["Forest"],
+		"startBias": ["Coast"],
 		"favoredReligion": "PathOwOgen",
 		"preferredVictoryType": "Cultural",
 		
@@ -34,5 +34,41 @@
 		"uniques": ["Gain a free [Shrine] [in all cities]"]
 		"uniqueText": "Furries are the masters of cringe. Every city starts with a shrine, making this garbage civ overpowered for religion. If that isn't already enough, they get a stupidly powerful wonder in the Industrial era that almost ensures religion spreads like wildfire. Horrifically unbalanced, but what did you expect from a joke mod?"
 		"cities": ["Furryville","Bulgeburg","Cringetown","Boykisser Village","Foxville","Wooferburg","Mcflufferton","Meowtown","Wolfburg","Chonkerton","Cat Zone","Useless City","Why?","Chungus"]
+	},
+	{
+		"name": "Weeb Army",
+		"leaderName": "Captain Neckbeard",
+		"adjective": ["Weeb"],
+		"startbias": ["Coast"],
+		"favoredReligion": "Weabooism",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "They always made fun of you",
+		"startIntroPart2": "While they were building wonders and settling cities, you were studying the blade. Now they will regret their insulting of your waifu! Your people emerge from their basements, rainbow katanas in hand... The world shall be ours! We will rule the world alongside our body pillow waifus!",
+
+		"declaringWar": "Heh. Nothing personnel kid.",
+		"attacked": "You dare trifle with a master of the blade? Your arrogance will be your fall!",
+		"defeated": "Your conquest of the weebs strikes fear in the hearts of their people. They retreat to the unholy depths of 4chan with their body pillows in defeat.",
+		"introduction": "While you were out there building wonders and settling cities, I was studying the blade. And now that the world is starting and the barbarians at the gate, you have the audacity to come to me for help?",
+
+		"neutralHello": "Koneecheewah",
+		"neutralLetsHearIt": "Heh, you got my attention kid.",
+		"neutralNo": "You'll have to try better than that, bucko.",
+		"neutralYes": "A good deal, for a uncultured swine.",
+
+		"hateHello": "You should see me when I go all out, because you won't see it for long.",
+		"hateLetsHearIt": "Fine, show me your paltry deal.",
+		"hateNo": "Typical of you to make such a garbage deal.",
+		"hateYes": "I'll be nice, for today.",
+
+		"afterPeace": "I suppose I am feeling merciful today, swine.",
+		"tradeRequest": "You won't get a deal better than this, idiot.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,255],
+		"uniqueName": "Students of the blade",
+		"uniques": ["[25]% XP gained from combat", "Earn [50]% of the damage done to [Military] units as [Culture]"],
+		"uniqueText": "As students of the Blade, your military units learn more from combat, and when they brag about it, half the damage they do is converted to culture. Very strong civ for a Culture/Domination victory.",
+		"cities": ["New Japan","Asunaville","Desuburg","Kawaiitown","Neko Village","Nya Nya Town","Narutown","Isekaiville","Hentown","Gokuville","Katowna","Mangatown","Animemes","Catgirl City","Kitsune Village"]
 	}
 ]
