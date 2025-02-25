@@ -39,7 +39,7 @@
 		"name": "Weeb Army",
 		"leaderName": "Captain Neckbeard",
 		"adjective": ["Weeb"],
-		"startbias": ["Coast"],
+		"startBias": ["Coast"],
 		"favoredReligion": "Weabooism",
 		"preferredVictoryType": "Cultural",
 
@@ -67,7 +67,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,255],
 		"uniqueName": "Students of the blade",
-		"uniques": ["[25]% XP gained from combat", "Earn [50]% of the damage done to [Military] units as [Culture]"],
+		"uniques": ["[+25]% XP gained from combat", "Earn [50]% of the damage done to [Military] units as [Culture]"],
 		"uniqueText": "As students of the Blade, your military units learn more from combat, and when they brag about it, half the damage they do is converted to culture. Very strong civ for a Culture/Domination victory. Also, they don't use guns, as a katana is always better than practical weapons.",
 		"cities": ["New Japan","Asunaville","Desuburg","Kawaiitown","Neko Village","Nya Nya Town","Narutown","Isekaiville","Hentown","Gokuville","Katowna","Mangatown","Animemes","Catgirl City","Kitsune Village"]
 	}
