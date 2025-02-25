@@ -39,9 +39,9 @@
 		"obsoleteTech": "Replaceable Parts",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 36,
+		"strength": 33,
 		"cost": 225
 	},
 	{
@@ -54,9 +54,9 @@
 		"obsoleteTech": "Plastics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 52,
+		"strength": 50,
 		"cost": 320
 	},
 	{
@@ -69,9 +69,9 @@
 		"obsoleteTech": "Mobile Tactics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 72,
+		"strength": 70,
 		"cost": 375
 	},
 	{
@@ -82,9 +82,9 @@
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 3,
-		"strength": 92,
+		"strength": 90,
 		"cost": 375,
 	},
 	{
