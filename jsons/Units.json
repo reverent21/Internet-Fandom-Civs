@@ -24,9 +24,9 @@
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 30,
+		"strength": 24,
 		"cost": 150
 	},
 	{
@@ -56,7 +56,7 @@
 		"attackSound": "metalhit"
 		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 45,
+		"strength": 50,
 		"cost": 320
 	},
 	{
@@ -97,7 +97,7 @@
 		"strength": 30,
 		"rangedStrength": 30,
 		"cost": 225,
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Mall Ninja Master",
 		"obsoleteTech": "Ballistics",
@@ -113,7 +113,7 @@
 		"rangedStrength": 60,
 		"cost": 350,
 		"requiredTech": "Ballistics",
-		"uniques": ["[50]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"upgradesTo": "Rainbow Katana Master",
 		"attackSound": "throw"
 	}
