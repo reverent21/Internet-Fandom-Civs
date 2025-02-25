@@ -41,7 +41,7 @@
 		"attackSound": "metalhit"
 		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 33,
+		"strength": 34,
 		"cost": 225
 	},
 	{
@@ -56,7 +56,7 @@
 		"attackSound": "metalhit"
 		"uniques": ["[10]% Strength <vs [Gunpowder] units>"],
 		"movement": 2,
-		"strength": 50,
+		"strength": 45,
 		"cost": 320
 	},
 	{
