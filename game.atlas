@@ -32,51 +32,317 @@ NationIcons/Weeb Army
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Katana Adept
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Furry
   rotate: false
   xy: 1084, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Katana Apprentice
+TileSets/FantasyHex/Units/Anti-Tank Gun-Furry
   rotate: false
   xy: 1084, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Katana Expert
+TileSets/FantasyHex/Units/Archaeologist-Furry
   rotate: false
   xy: 1124, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Katana Master
+TileSets/FantasyHex/Units/Archer-Furry
   rotate: false
   xy: 1084, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mall Ninja Apprentice
+TileSets/FantasyHex/Units/Cavalry-Furry
   rotate: false
   xy: 1124, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mall Ninja Master
+TileSets/FantasyHex/Units/Chariot Archer-Furry
   rotate: false
   xy: 1164, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rainbow Katana Master
+TileSets/FantasyHex/Units/Composite Bowman-Furry
   rotate: false
   xy: 1124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-Furry
+  rotate: false
+  xy: 1164, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-Furry
+  rotate: false
+  xy: 1204, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Artist-Furry
+  rotate: false
+  xy: 1164, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Engineer-Furry
+  rotate: false
+  xy: 1204, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great General-Furry
+  rotate: false
+  xy: 1244, 73
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Merchant-Furry
+  rotate: false
+  xy: 1204, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Musician-Furry
+  rotate: false
+  xy: 1244, 37
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Furry
+  rotate: false
+  xy: 1284, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Scientist-Furry
+  rotate: false
+  xy: 1284, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-Furry
+  rotate: false
+  xy: 1324, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Writer-Furry
+  rotate: false
+  xy: 1324, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-Furry
+  rotate: false
+  xy: 1364, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Furry
+  rotate: false
+  xy: 1364, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Inquisitor-Furry
+  rotate: false
+  xy: 1404, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Katana Adept
+  rotate: false
+  xy: 1404, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Katana Apprentice
+  rotate: false
+  xy: 1444, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Katana Expert
+  rotate: false
+  xy: 1444, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Katana Master
+  rotate: false
+  xy: 1484, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Furry
+  rotate: false
+  xy: 1484, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lancer-Furry
+  rotate: false
+  xy: 1524, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-Furry
+  rotate: false
+  xy: 1524, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Furry
+  rotate: false
+  xy: 1564, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mall Ninja Apprentice
+  rotate: false
+  xy: 1564, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mall Ninja Master
+  rotate: false
+  xy: 1604, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Furry
+  rotate: false
+  xy: 1604, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-Furry
+  rotate: false
+  xy: 1644, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Furry
+  rotate: false
+  xy: 1644, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/PathOwOgen carrier
+  rotate: false
+  xy: 1684, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-Furry
+  rotate: false
+  xy: 1684, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rainbow Katana Master
+  rotate: false
+  xy: 1724, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Furry
+  rotate: false
+  xy: 1724, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout-Furry
+  rotate: false
+  xy: 1764, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Furry
+  rotate: false
+  xy: 1764, 39
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Furry
+  rotate: false
+  xy: 1804, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Furry
+  rotate: false
+  xy: 1804, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Furry
+  rotate: false
+  xy: 1844, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Furry
+  rotate: false
+  xy: 1844, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Furry-Modern era
+  rotate: false
+  xy: 1884, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
