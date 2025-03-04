@@ -3,7 +3,7 @@
 		"name": "Furry Fandom",
 		"leaderName": "Floofles the Cringelord",
 		"adjective": ["furry"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast", "Tundra"],
 		"favoredReligion": "PathOwOgen",
 		"preferredVictoryType": "Cultural",
 		"style": "Furry"
@@ -32,7 +32,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [0,255,255],
 		"uniqueName": "Masters of Cringe",
-		"uniques": ["Gain a free [Shrine] [in all cities]"]
+		"uniques": ["Gain a free [Shrine] [in all cities]", "[+33%] Strength <when fighting in [your] tiles>"]
 		"uniqueText": "Furries are the masters of cringe. Every city starts with a shrine, making this garbage civ overpowered for religion. If that isn't already enough, they get a stupidly powerful wonder in the Industrial era that almost ensures religion spreads like wildfire. Horrifically unbalanced, but what did you expect from a joke mod?"
 		"cities": ["Furryville","Bulgeburg","Cringetown","Boykisser Village","Foxville","Wooferburg","Mcflufferton","Meowtown","Wolfburg","Chonkerton","Cat Zone","Useless City","Why?","Chungus"]
 	},
