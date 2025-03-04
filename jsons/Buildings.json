@@ -23,5 +23,10 @@
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Furry Unique",
+		"uniqueTo": "Furry Fandom",
+		"uniques": ["Unbuildable", "Moves to new capital when capital changes", "Can be purchased for [0] [Faith] [in capital]", "[+33%] Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
 	}
 ]
