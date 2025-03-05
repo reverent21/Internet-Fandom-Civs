@@ -34,6 +34,6 @@
 		"uniqueTo": "Furry Fandom",
 		"replaces": "Shrine",
 		"faith": 2,
-		"science": 2,
+		"science": 1,
 	}
 ]
