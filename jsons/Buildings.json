@@ -28,5 +28,12 @@
 		"name": "Furry Unique",
 		"uniqueTo": "Furry Fandom",
 		"uniques": ["Unbuildable", "Moves to new capital when capital changes", "Can be purchased for [0] [Faith] [in capital]", "[+33]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Unique Shrine",
+		"uniqueTo": "Furry Fandom",
+		"replaces": "Shrine",
+		"faith": 2,
+		"science": 2,
 	}
 ]
